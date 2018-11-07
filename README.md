@@ -4,8 +4,6 @@
 
 ### A two hour hands-on workshop led by Dr Diarmuid McDonnell, University of Edinburgh.
 
-<br>
-
 ### Topics: 
 
 The course introduces participants to the skills required to discover data sources and organise raw data for data analysis. Practical operations such as scraping data from the web, organising and processing large datasets, and exporting files for analysis in other software packages will be covered. There will be an emphasis on developing accurate, efficient, transparent and reproducible code.
@@ -25,6 +23,7 @@ _Python Essential Training_ - https://www.lynda.com/Python-tutorials/Python-Esse
 ### Useful resources
 
 https://www.dataschool.io/python-or-r-for-data-science/
+_A Byte of Python_ - https://python.swaroopch.com/ [FREE - excellent, brief textbook that covers the basics]
 
 ### Cheat Sheets
 
