@@ -8,7 +8,7 @@
 
 ### Topics: 
 
-The course introduces participants to the skills required to discover data sources and organise raw data for data analysis. Practical operations such as scraping data from the web, organising and pricessing large datasets, and exporting files for analysis in other software packages will be covered. There will be an emphasis on developing accurate, efficient, transparent and reproducible code.
+The course introduces participants to the skills required to discover data sources and organise raw data for data analysis. Practical operations such as scraping data from the web, organising and processing large datasets, and exporting files for analysis in other software packages will be covered. There will be an emphasis on developing accurate, efficient, transparent and reproducible code.
 
 ### Python basics
 
