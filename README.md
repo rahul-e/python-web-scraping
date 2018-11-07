@@ -16,6 +16,12 @@ _Data Analysis in Python_ - http://www.data-analysis-in-python.org/ <br />
 _Installation_ - Python 3 - https://www.python.org/downloads/   <br />
 _Sublime Text_ - https://www.sublimetext.com/3
 
+### Tutorials
+
+_Data Analysis in Python_ - http://www.data-analysis-in-python.org/ [FREE] <br />
+_Python Essential Training_ - https://www.lynda.com/Python-tutorials/Python-Essential-Training/614299-2.html [SUBSCRIPTION - try your university] <br />
+
+
 ### Useful resources
 
 https://www.dataschool.io/python-or-r-for-data-science/
