@@ -24,6 +24,7 @@ _Python Essential Training_ - https://www.lynda.com/Python-tutorials/Python-Esse
 
 https://www.dataschool.io/python-or-r-for-data-science/
 _A Byte of Python_ - https://python.swaroopch.com/ [FREE - excellent, brief textbook that covers the basics]
+_Big Data_ - http://www.tadawiki.org/index.php?title=Big_Data_(Topic)
 
 ### Cheat Sheets
 
